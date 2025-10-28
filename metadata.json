@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Your Creator Gen",
+  "description": "An application to generate stunning AI images and videos using Google's Gemini models. Your AI Creation Studio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
